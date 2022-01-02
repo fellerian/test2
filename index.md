@@ -1,3 +1,7 @@
+Hi there!
+Why is it so hard to use GitHub? Plese be kind to me. I'm new to this wild world.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fellerian/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
